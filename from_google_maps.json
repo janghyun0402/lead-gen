@@ -1,0 +1,45 @@
+{
+    "address": "8620 N New Braunfels Ave # 620, San Antonio, TX 78217, USA",
+    "business_status": "OPERATIONAL",
+    "city": "San Antonio",
+    "city_population": 100000,
+    "geometry": {
+      "latitude": 29.518625699999994,
+      "longitude": -98.45776169999999
+    },
+    "google_maps_url": "https://maps.google.com/?cid=15996864054430602316&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAAYBCAA",
+    "name": "CloverLeaf Property Management",
+    "phone_number": "+1 210-827-7777",
+    "place_id": "ChIJyUI2QFKTXIYRTBSNPBpHAN4",
+    "price_level": null,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "rae gar",
+        "rating": 5,
+        "relative_time_description": "2025-08-08T18:27:59.211668208Z",
+        "text": "Luisa was amazing to work with! She helped my boyfriend and me find the perfect rental home and made the whole process so easy and stress-free. She was super sweet, funny, and always patient with our"
+      },
+      {
+        "author_name": "Valencia Jacob",
+        "rating": 5,
+        "relative_time_description": "2025-08-27T14:40:06.461586476Z",
+        "text": "We could not be more grateful for the service we received from Cloverleaf. After answering my questions prior to applying, Louisa called me the same day we put in our application to let us know we wer"
+      },
+      {
+        "author_name": "Roger Patigayon",
+        "rating": 5,
+        "relative_time_description": "2025-05-25T22:03:31.573385Z",
+        "text": "I’ve been with Cloverleaf Property Management for over 4 years now for managing my rental property, and so far, I have no problems or issues with them ever since. The Cloverleaf team (Marvin, Bruno, J"
+      }
+    ],
+    "state": "CA",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 521,
+    "website": "http://www.cloverleafpropertymanagement.com/"
+  }
+  
